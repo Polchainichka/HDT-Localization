@@ -760,7 +760,7 @@
     <value>Тема:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_Accent" xml:space="preserve">
-    <value>Ударение:</value>
+    <value>Цвет. схема:</value>
   </data>
   <data name="Options_Tracker_Appearance_Label_ClassIcons" xml:space="preserve">
     <value>Значки классов:</value>
